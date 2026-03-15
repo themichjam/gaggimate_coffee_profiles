@@ -31,7 +31,7 @@ GaggiMate profiles are structured JSON shot programs that define machine behavio
 | Milky Cake | profiles/dak/DAK_Milky_Cake_2_Lattes_pro.json | Sweet milk-drink profile |
 | Cream Donut | profiles/dak/DAK_Cream_Donut_pro.json | Dessert-style milk profile |
 | Lush Buds | profiles/dak/DAK_Lush_Buds_pro.json | Fruity / floral profile |
-| Cherry Focus | profiles/dak/DAK_Cherry_Focus_pro.json | Cherry-forward milk profile |
+| Jiggly Berry | profiles/dak/DAK_Cherry_Focus_pro.json | Cherry-forward milk profile |
 
 ## Bean and profile notes
 
@@ -40,7 +40,7 @@ GaggiMate profiles are structured JSON shot programs that define machine behavio
 | Milky Cake | Sweet, milk-forward espresso style | Biases toward body and sweetness with a smoother pressure progression to keep chocolate/caramel notes round in milk drinks. | 4.7 / 5 |
 | Cream Donut | Dessert-style, milk beverage focus | Uses a comfort-profile shape aimed at dense texture and lower astringency for richer, pastry-like cups. | 4.6 / 5 |
 | Lush Buds | Fruity / floral espresso style | Keeps clarity higher with a profile behavior that supports brighter acidity and aromatic separation. | 4.5 / 5 |
-| Cherry Focus | Cherry-forward milk profile | Pushes fruit definition while maintaining enough body for milk integration, emphasizing cherry sweetness. | 4.6 / 5 |
+| Jiggly Berry | Cherry-forward milk profile | Pushes fruit definition while maintaining enough body for milk integration, emphasizing cherry sweetness. | 4.6 / 5 |
 
 > Ratings are community-facing, dial-in-dependent reference scores (not official cupping scores).
 
